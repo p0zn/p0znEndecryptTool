@@ -1,10 +1,6 @@
 # p0znEndecryptTool
 ## Hash Endoce/Decode Tool
 
-![](https://www.linkpicture.com/q/pic1_9.jpg)
-![](https://www.linkpicture.com/q/pic2_6.jpg)
-![](https://www.linkpicture.com/q/pic3_5.jpg)
-
 ## Features
 
 - SHA1 Encrypt & Decrypt.
